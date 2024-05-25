@@ -1,10 +1,10 @@
-package org.suptech.gateway;
+package org.suptech.studentvf;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GatewayApplicationTests {
+class StudentVfApplicationTests {
 
     @Test
     void contextLoads() {
